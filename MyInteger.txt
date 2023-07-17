@@ -1,0 +1,18 @@
+		MyInteger
+value: int
+--------------------------
+getValue(): int
+MyInteger(int): void
+isEven(): boolean
+isOdd(): boolean
+isPrime(): boolean
+isEven(int): boolean
+isOdd(int): boolean
+isPrime(int): boolean
+isEven(MyInteger): boolean
+isOdd(MyInteger): boolean
+isPrime(MyInteger): boolean
+equals(int): boolean
+equals(MyInteger): boolean
+parseInt(char[]): int
+parseInt(String): int
