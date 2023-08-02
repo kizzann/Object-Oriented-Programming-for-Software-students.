@@ -1,0 +1,3 @@
+Exercise12_13 PLanning
+
+The point that the error should be triggered, is after the use inputs the index array. I should check this by using a try-catch exception.

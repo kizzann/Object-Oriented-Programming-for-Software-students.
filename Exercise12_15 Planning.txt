@@ -1,0 +1,7 @@
+Exercise12_15 Planning
+
+I will write to the file with input, and PrintWriter such as: 
+
+PrintWriter ouput = new PrintWriter(filename)
+
+I will read from the file with the "toString()" method.
