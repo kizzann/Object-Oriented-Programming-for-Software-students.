@@ -1,0 +1,23 @@
+		GeometricObject
+private color(string)
+private filled(boolean)
+java.util.Date
+
+--------------------------------------
+Geometric object() dateCreated
+
+GeometricObject(color, boolean, filled)
+
+getColor(string)
+
+setColor(string)
+
+setColor()
+
+isFilled(boolean)
+
+setFilled()
+
+getDateCreated()
+
+
